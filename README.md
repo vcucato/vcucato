@@ -1,16 +1,23 @@
-## Hi there 👋
+# Victor Cucato
 
-<!--
-**vcucato/vcucato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Estudante de Cybersecurity em transição de carreira, buscando minha primeira oportunidade na área.
+Atualmente estudando redes, protocolos e fundamentos de segurança pela plataforma TryHackMe.
 
-Here are some ideas to get you started:
+## O que estou aprendendo
+**TryHackMe - Pre Security Path**
+- ✅ Introduction to Cyber Security
+- 🔄 Network Fundamentals (em andamento)
+- ⏳ How The Web Works
+- ⏳ Computer Fundamentals
+- ⏳ Operating Systems Basics
+- ⏳ Software Basics
+- ⏳ Attacks and Defenses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Inglês avançado
+- Raciocínio analítico
+- Aprendizado autodidata
+
+## Contato
+- 📧 victor.cucato@gmail.com
