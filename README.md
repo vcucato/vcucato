@@ -18,7 +18,7 @@ Atualmente avançando pelo Cyber Security 101 no TryHackMe após concluir o Pre 
 - 🔄 Em andamento
 
 ## Certificações
-- ✅ TryHackMe Pre Security (02/07/2026)
+- ✅ [TryHackMe Pre Security (02/07/2026)](https://tryhackme.com/certificate/THM-K7MMTMUWRP)
 
   
 ## Habilidades
